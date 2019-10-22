@@ -13,16 +13,16 @@ Number of Attributes/Columns in data: 10
 
 Attribute Information:
 
-1.Id
-2.ProductId - unique identifier for the product
-3.UserId - unqiue identifier for the user
-4.ProfileName
-5.HelpfulnessNumerator - number of users who found the review helpful
-6.HelpfulnessDenominator - number of users who indicated whether they found the review helpful or not
-7.Score - rating between 1 and 5
-8.Time - timestamp for the review
-9.Summary - brief summary of the review
-10.Text - text of the review
+1. Id
+2. ProductId - unique identifier for the product
+3. UserId - unqiue identifier for the user
+4 .ProfileName
+5. HelpfulnessNumerator - number of users who found the review helpful
+6. HelpfulnessDenominator - number of users who indicated whether they found the review helpful or not
+7. Score - rating between 1 and 5
+8. Time - timestamp for the review
+9. Summary - brief summary of the review
+10. Text - text of the review
 
 
 Objective:
@@ -30,12 +30,12 @@ Given a review, determine whether the review is positive (Rating of 4 or 5) or n
 
 We will Apply various Models as shown below.
 
-T-SNE
-K-NN
-Naive Bayes
-Logistic Regression
-Truncated SVD
-SVM
-Decision Trees
-K-means clustering
-LSTM
+1. T-SNE
+2. K-NN
+3. Naive Bayes
+4. Logistic Regression
+5. Truncated SVD
+6. SVM
+7. Decision Trees
+8. K-means clustering
+9. LSTM
