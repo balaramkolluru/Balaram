@@ -1,2 +1,1 @@
-# Balaram
-Machine-Learning Case Studies repo
+# Amazon Fine Food Reviews
